@@ -5,8 +5,6 @@
 - #### 📝📝📝 [欢迎关注我的 CSDN 博客](https://blog.csdn.net/tefuirnever)
 - #### 📚📚📚 [机器学习实战数据集](https://github.com/TeFuirnever/Machine-Learning-in-Action/blob/master/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%AE%9E%E6%88%98%E6%95%B0%E6%8D%AE%E9%9B%86.zip)
 
-📒📒📒 **建议使用博客和代码一起完成学习，鉴于水平有限，如有问题，可以博客留言。**
-
 目录
 ---
 
@@ -101,3 +99,7 @@
 - #### 第15章 - 大数据与MapReduce - 博客
 
 - ####
+
+# 📢 全部本人所写✏，仅供参考📜
+# 📢 建议使用博客和代码一起完成学习📒
+# 📢 鉴于水平有限，如有问题，可以博客留言🌈
